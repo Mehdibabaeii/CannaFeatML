@@ -13,8 +13,6 @@ A machine learning pipeline for feature engineering and classification of cannab
 
 This project presents a **feature selection and classification pipeline** aimed at identifying key markers and predictive traits related to **flowering time diversity in *Cannabis sativa***. By integrating **morphophysiological traits**, **genome-wide SNP data**, and **environmental variables**, the pipeline classifies cannabis landrace accessions into **early-, medium-, and late-flowering** categories.
 
-We adapt and extend the framework by Abdelwahab et al. (2022) to a **multi-class phenological classification** problem in plants. The pipeline uses an ensemble of machine learning techniques for feature selection and a linear SVM for classification.
-
 ---
 
 ## Data Used
@@ -96,7 +94,7 @@ The pipeline includes:
 
 ## Notes
 
-- This project builds on the methodology of Abdelwahab et al. (2022), adapted for **plant phenotyping**.
+- We adapt and extend the framework by Abdelwahab et al. (2022) to a **multi-class phenological classification** problem in plants. The pipeline uses an ensemble of machine learning techniques for feature selection and a linear SVM for classification.
 - The pipeline is generalizable to other **multi-class biological classification** problems involving **combined genomic and phenotypic datasets**.
 
 ---
