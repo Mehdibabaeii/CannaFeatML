@@ -124,7 +124,7 @@ pip install numpy pandas matplotlib scikit-learn pillow jupyter
 
 ## Notes
 
-- We adapt and extend the framework by Abdelwahab et al. (2022) https://doi.org/10.3389/fpls.2022.991680 to a multi-class phenological classification problem in plants. The pipeline uses an ensemble of machine learning techniques for feature selection and a linear SVM for classification.
+- We adapt and extend the framework by Abdelwahab et al. (2022) [https://doi.org/10.3389/fpls.2022.991680](https://doi.org/10.1371/journal.pone.0269126) to a multi-class phenological classification problem in plants. The pipeline uses an ensemble of machine learning techniques for feature selection and a linear SVM for classification.
 
 - The pipeline is generalizable to other **multi-class biological classification** problems involving **combined genomic and phenotypic datasets**.
 
