@@ -20,9 +20,9 @@ This project presents a **feature selection and classification pipeline** aimed 
 - **Phenotypic Data**  
   Weekly measurements of 6 morphophysiological traits over:
   
-  - 13 weeks (females)
+   - 13 weeks (females)
   
-  - 11 weeks (males)  
+   - 11 weeks (males)  
   
   For **145 accessions**.
   
