@@ -21,9 +21,13 @@ We adapt and extend the framework by Abdelwahab et al. (2022) to a **multi-class
 
 - **Phenotypic Data**  
   Weekly measurements of 6 morphophysiological traits over:
+  
   - 13 weeks (females)
+  
   - 11 weeks (males)  
+  
   For **145 accessions**.
+  
 
 - **Genomic Data**  
   - 233,620 SNPs from whole-genome sequencing of the same 145 accessions.
