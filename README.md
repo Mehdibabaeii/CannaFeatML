@@ -29,8 +29,10 @@ We adapt and extend the framework by Abdelwahab et al. (2022) to a **multi-class
   For **145 accessions**.
   
 
-- **Genomic Data**  
+- **Genomic Data**
+  
   - 233,620 SNPs from whole-genome sequencing of the same 145 accessions.
+  
   - Filtered and curated for quality.
 
 - **Environmental Data**  
