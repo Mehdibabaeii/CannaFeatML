@@ -2,9 +2,9 @@
 A machine learning pipeline for feature engineering and classification of cannabis flowering time using genomic and phenotypic data.
 
 
-# 🌿 Cannabis-FloweringTime-Classification-Project
+# Cannabis-FloweringTime-Classification-Project
 
-📖 **Publication Citation**  
+**Publication Citation**  
 > []
 
 ---
@@ -17,7 +17,7 @@ We adapt and extend the framework by Abdelwahab et al. (2022) to a **multi-class
 
 ---
 
-## 📊 Data Used
+## Data Used
 
 - **Phenotypic Data**  
   Weekly measurements of 6 morphophysiological traits over:
@@ -32,12 +32,12 @@ We adapt and extend the framework by Abdelwahab et al. (2022) to a **multi-class
 - **Environmental Data**  
   - Daily **Growing Degree Days (GDD)** and **day length** over a 150-day growing period.
 
-> 📎 **Phenotype and SNP matrices are available upon request or via DOI: [10.6084/m9.figshare.29054192](https://doi.org/10.6084/m9.figshare.29054192).**
+> **Phenotype and SNP matrices are available upon request or via DOI: [10.6084/m9.figshare.29054192](https://doi.org/10.6084/m9.figshare.29054192).**
 
 
 ---
 
-## 🧪 Framework Summary
+## Framework Summary
 The pipeline includes:
 
 1. **Preprocessing**
@@ -54,12 +54,12 @@ The pipeline includes:
    - Evaluation via ROC AUC, confusion matrix, F1-score
    - Stratified 5-fold cross-validation
 
-> ✅ **Core Result**:  
+> **Core Result**:  
 > A model using 4 common features across all FS methods achieved **86% accuracy**, while a broader set of 53 features reached **96.8% accuracy**.
 
 ---
 
-## 📌 Key Results
+## Key Results
 
 - Identification of **SNPs and traits** most associated with flowering classes
 - Visualization of **feature importance**
@@ -71,7 +71,7 @@ The pipeline includes:
 
 ---
 
-## 📁 Resources
+## Resources
 
 | File | Description |
 |------|-------------|
@@ -80,7 +80,7 @@ The pipeline includes:
 
 ---
 
-## 📝 Notes
+## Notes
 
 - This project builds on the methodology of Abdelwahab et al. (2022), adapted for **plant phenotyping**.
 - The pipeline is generalizable to other **multi-class biological classification** problems involving **combined genomic and phenotypic datasets**.
