@@ -47,17 +47,25 @@ We adapt and extend the framework by Abdelwahab et al. (2022) to a **multi-class
 The pipeline includes:
 
 1. **Preprocessing**
+   
    - Spline approximation
+   
    - Standardization
 
-2. **Feature Selection**
+3. **Feature Selection**
+   
    - Mutual Information (MI)
+   
    - Recursive Feature Elimination (RFE)
+   
    - Random Forest (RF)
 
-3. **Classification**
+5. **Classification**
+   
    - Linear Support Vector Machine (SVM)
+   
    - Evaluation via ROC AUC, confusion matrix, F1-score
+   
    - Stratified 5-fold cross-validation
 
 > **Core Result**:  
