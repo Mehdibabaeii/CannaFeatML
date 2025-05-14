@@ -34,7 +34,8 @@ This project presents a **feature selection and classification pipeline** aimed 
   - Filtered and curated for quality.
 
 - **Environmental Data**  
-  - Daily **Growing Degree Days (GDD)** and **day length** over a 150-day growing period.
+  - Daily **Growing Degree Days (GDD)**
+  - **day length** over a 150-day growing period.
 
 > **Phenotype and SNP matrices are available upon request or via DOI: [10.6084/m9.figshare.29054192](https://doi.org/10.6084/m9.figshare.29054192).**
 
