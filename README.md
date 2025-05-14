@@ -32,7 +32,8 @@ We adapt and extend the framework by Abdelwahab et al. (2022) to a **multi-class
 - **Environmental Data**  
   - Daily **Growing Degree Days (GDD)** and **day length** over a 150-day growing period.
 
-> 📎 *Phenotype and SNP matrices are available upon request or via DOI 10.6084/m9.figshare.29054192.*
+> 📎 **Phenotype and SNP matrices are available upon request or via DOI: [10.6084/m9.figshare.29054192](https://doi.org/10.6084/m9.figshare.29054192).**
+
 
 ---
 
