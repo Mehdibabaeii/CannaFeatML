@@ -76,9 +76,13 @@ The pipeline includes:
 - Identification of **SNPs and traits** most associated with flowering classes
 - Visualization of **feature importance**
 - Performance metrics:
+  
   - ROC AUC (macro and per-class)
+  
   - Confusion matrices
+  
   - Balanced accuracy
+  
   - F1-score
 
 ---
@@ -89,11 +93,13 @@ The pipeline includes:
 ```bash
 git clone git@github.com:Mehdibabaeii/CannaFeatML.git
 cd CannaFeatML
+```
 
 ### 2. Install Python
 
 Make sure you have Python 3.12.4 or newer installed.
-You can download it from the official Python website.
+You can download it from the official Python website: [Python Downloads](https://www.python.org/downloads/).
+
 
 ### 3. Install Dependencies
 
@@ -101,8 +107,8 @@ Use the following command to install the required Python packages:
 
 ```bash
 pip install numpy pandas matplotlib scikit-learn pillow jupyter
-----
-
+```
+---
 ## Resources
 
 | File | Description |
