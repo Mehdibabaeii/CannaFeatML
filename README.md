@@ -82,6 +82,26 @@ The pipeline includes:
   - F1-score
 
 ---
+## Installation & Running the Pipeline
+
+### 1. Clone the Repository
+
+```bash
+git clone git@github.com:Mehdibabaeii/CannaFeatML.git
+cd CannaFeatML
+
+### 2. Install Python
+
+Make sure you have Python 3.12.4 or newer installed.
+You can download it from the official Python website.
+
+### 3. Install Dependencies
+
+Use the following command to install the required Python packages:
+
+```bash
+pip install numpy pandas matplotlib scikit-learn pillow jupyter
+----
 
 ## Resources
 
