@@ -35,8 +35,9 @@ This project presents a **feature selection and classification pipeline** aimed 
 
 - **Environmental Data**
   
-  - Daily **Growing Degree Days (GDD)**
-- Day length **Photoperiod switch-off** over a 150-day growing period
+  - Daily **Growing Degree Days** (GDD)
+  - Day length **Photoperiod switch-off** over a 150-day growing period
+
 
 
 > **Phenotype and SNP matrices are available upon request or via DOI: [10.6084/m9.figshare.29054192](https://doi.org/10.6084/m9.figshare.29054192).**
