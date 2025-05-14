@@ -5,7 +5,7 @@
 # 🌿 Cannabis-FloweringTime-Classification-Project
 
 📖 **Publication Citation**  
-> This project is based on and extends the feature selection framework by Abdelwahab et al. (2022). Please cite accordingly if used in academic work.
+> 
 
 ---
 
