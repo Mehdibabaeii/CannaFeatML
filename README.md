@@ -73,6 +73,19 @@ The pipeline includes:
 > **Core Result**:  
 > A model using 4 common features across all FS methods achieved **86% accuracy**, while a broader set of 53 features reached **96.8% accuracy**.
 
+
+Table 2: Comparison of evaluation metrics among different feature selection (FS) techniques: MI-SVM, RFE-SVM, and RF models. The metrics include precision, recall (sensitivity), specificity, Balanced Accuracy, F1-score, and ROC AUC.
+
+| Metric                | MI-SVM | RFE-SVM | RF (2840 features, 197 trees) |
+|-----------------------|--------|---------|-------------------------------|
+| Number of Features    | 4      | 53      | 2840                          |
+| Precision             | 0.862  | 0.968   | 0.666                         |
+| Recall (Sensitivity)  | 0.862  | 0.966   | 0.655                         |
+| Specificity           | 0.879  | 0.971   | 0.699                         |
+| Balanced Accuracy     | 0.870  | 0.969   | 0.677                         |
+| F1-Score              | 0.862  | 0.965   | 0.654                         |
+| ROC AUC               | 0.917  | 0.990   | 0.802                         
+
 ---
 
 ## Key Results
