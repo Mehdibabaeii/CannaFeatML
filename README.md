@@ -48,13 +48,13 @@ This project presents a **feature selection and classification pipeline** aimed 
 ## Framework Summary
 The pipeline includes:
 
-1. **Preprocessing**
+- **Preprocessing**
    
    - Spline approximation
    
    - Standardization
 
-3. **Feature Selection**
+- **Feature Selection**
    
    - Mutual Information (MI)
    
@@ -62,7 +62,7 @@ The pipeline includes:
    
    - Random Forest (RF)
 
-5. **Classification**
+- **Classification**
    
    - Linear Support Vector Machine (SVM)
    
