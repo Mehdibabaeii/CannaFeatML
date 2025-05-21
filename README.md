@@ -11,7 +11,7 @@ A machine learning pipeline for feature engineering and classification of cannab
 
 ## Project Overview
 
-This project presents a **feature selection and classification pipeline** aimed at identifying key markers and predictive traits related to **flowering time diversity in *Cannabis sativa***. By integrating **morphophysiological traits**, **genome-wide SNP data**, and **environmental variables**, the pipeline classifies cannabis landrace accessions into **early-, medium-, and late-flowering** categories.
+This project presents a **feature selection and classification pipeline** to identify key markers and predictive traits related to **flowering time diversity in *Cannabis sativa***. By integrating **morphophysiological traits**, **genome-wide SNP data**, and **environmental variables**, the pipeline classifies cannabis landrace accessions into **early-, medium-, and late-flowering** categories.
 
 ---
 
@@ -29,7 +29,7 @@ This project presents a **feature selection and classification pipeline** aimed 
 
 - **Genomic Data**
   
-  - 233,620 SNPs from whole-genome sequencing of the same 145 accessions.
+  - 233,620 SNPs from genome sequencing of the same 145 accessions.
   
   - Filtered and curated for quality.
 
