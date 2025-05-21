@@ -29,7 +29,7 @@ This project presents a **feature selection and classification pipeline** to ide
 
 - **Genomic Data**
   
-  - 233,620 SNPs from genome sequencing of the same 145 accessions.
+  - 233,620 SNPs from genome sequencing of 145 accessions.
   
   - Filtered and curated for quality.
 
