@@ -5,7 +5,7 @@ A machine learning pipeline for feature engineering and classification of cannab
 # Cannabis-FloweringTime-Classification-Project
 
 **Publication Citation**  
-> []
+> [https://doi.org/10.1101/2025.08.11.669697]
 
 ---
 
