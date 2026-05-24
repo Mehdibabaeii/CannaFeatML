@@ -4,15 +4,23 @@ A machine learning pipeline for feature engineering and classification of cannab
 
 # Cannabis-FloweringTime-Classification-Project
 
-**Publication Citation**  
-> [https://doi.org/10.1101/2025.08.11.669697]
-
+## Publication Citation
+> Babaei, M., Nemati, H., Arouiee, H. & Torkamaneh, D. 
+> Integrating temporal morphophysiological and genomic markers 
+> for precise classification of flowering time in cannabis. 
+> *Sci Rep* (2026). https://doi.org/10.1038/s41598-026-53686-y
 ---
 
 ## Project Overview
 
 This project presents a **feature selection and classification pipeline** to identify key markers and predictive traits related to **flowering time diversity in *Cannabis sativa***. By integrating **morphophysiological traits**, **genome-wide SNP data**, and **environmental variables**, the pipeline classifies cannabis landrace accessions into **early-, medium-, and late-flowering** categories.
 
+## Note on Flowering Class Nomenclature
+In the published manuscript, flowering classes are designated as:
+- **Autoflowering** (formerly EarlyFlowering in codebase)
+- **Early-flowering** (formerly MediumFlowering in codebase)
+- **Late-flowering** (formerly LateFlowering in codebase)
+> The codebase retains the original class labels for reproducibility.
 ---
 
 ## Data Used
