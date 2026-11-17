@@ -5,11 +5,11 @@ A machine learning pipeline for feature engineering and classification of cannab
 # Cannabis-FloweringTime-Classification-Project
 
 ## Publication Citation
- If you use this software, plase cite our publication:
+ If you use this software, please cite our publication:
 > Babaei, M., Nemati, H., Arouiee, H. & Torkamaneh, D. 
 > Integrating temporal morphophysiological and genomic markers 
 > for precise classification of flowering time in cannabis. 
-> *Sci Rep* (2026). https://doi.org/10.1038/s41598-026-53686-y
+> *Sci Rep* 16, 23150 (2026). https://doi.org/10.1038/s41598-026-53686-y
 ---
 
 ## Project Overview
@@ -117,7 +117,7 @@ Table 2: Comparison of evaluation metrics among different feature selection (FS)
 ### 1. Clone the Repository
 
 ```bash
-git clone git@github.com:Mehdibabaeii/CannaFeatML.git
+git clone https://github.com/Mehdibabaeii/CannaFeatML.git
 cd CannaFeatML
 ```
 
